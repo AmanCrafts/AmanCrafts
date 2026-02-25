@@ -5,12 +5,13 @@
 
 <h3 align="center">
   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px>
-  Hi, I'm Shivank Gupta
+  Hi, I'm Amanjeet
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <div align="center">
-   
+
+![Snake animation](https://github.com/AmanCrafts/AmanCrafts/blob/output/github-contribution-grid-snake-light.svg)
 
 </div>
 
@@ -19,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shivank-1011/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=shivank-1011.shivank-1011"></a>
+  <a href="https://github.com/AmanCrafts/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=AmanCrafts.AmanCrafts"></a>
 </p>
 
 <div id="user-content-toc">
@@ -28,9 +29,8 @@
       <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
     </ul>
   <p align="left">
-  <a href="https://www.linkedin.com/in/shivank-gupta-064a83314?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"/></a> Linkedin &emsp;&emsp;&emsp;
-  <a href="mailto:guptashivu544@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"/></a> Mail &emsp;&emsp;&emsp;
-  <a href="https://www.instagram.com/shiv_ank_gupta/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="50" width="50"/></a> Instagram
+  <a href="https://www.linkedin.com/in/amanjeet-malik" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"/></a> Linkedin &emsp;&emsp;&emsp;
+  <a href="mailto:theamanmalikarts@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"/></a> Mail &emsp;&emsp;&emsp;
   </p>
   </div>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivank-1011&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanCrafts&theme=github_dark)
   
 </div>
 
@@ -50,21 +50,21 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shivank-1011&theme=black-ice&background=000000&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=AAAAAA)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmanCrafts&theme=black-ice&background=000000&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=AAAAAA)](https://git.io/streak-stats)
 
 </div>
 
 ---
 ### Activity Graph
  
-[![Shivank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivank-1011&theme=react-dark&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanCrafts&theme=react-dark&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 💻 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/shivank_1011?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/AmanCrafts?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 ### 🏆 LeetCode Badges Showcase
